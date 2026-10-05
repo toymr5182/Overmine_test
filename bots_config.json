@@ -1,0 +1,19 @@
+[
+  {
+    "username": "FGOP",
+    "accountType": "offline",
+    "theme": "galaxy",
+    "autoLogin": false,
+    "loginPassword": "",
+    "autoPin": false,
+    "loginPin": "",
+    "autoCommands": [],
+    "autoServerSelect": false,
+    "serverSelectItem": "grass_block",
+    "autoEat": true,
+    "autoWalk": true,
+    "autoClick": true,
+    "autoAttack": false,
+    "attackDelay": 500
+  }
+]
