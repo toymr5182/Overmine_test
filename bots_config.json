@@ -29,7 +29,7 @@
     "autoLogin": true,
     "loginPassword": "Zxc12345",
     "autoPin": true,
-    "loginPin": "",
+    "loginPin": "0643",
     "autoCommands": [],
     "autoServerSelect": false,
     "serverSelectItem": "grass_block",
