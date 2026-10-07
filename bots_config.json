@@ -21,33 +21,5 @@
     "webhookUrl": "",
     "webhookMsgId": "1557319094519336991",
     "webhookMsgUrl": "https://discord.com/api/webhooks/1557318653676880002/sJZ2EfaOHyORK5Oo9i3vK6rTRqSnpH_1r9XRDuc57sGhsf5SQ761FNlfddEknfDtmsO8"
-  },
-  {
-    "username": "jhg84361@gmail.com",
-    "accountType": "premium",
-    "theme": "cyber",
-    "autoLogin": true,
-    "loginPassword": "Zxc12345",
-    "autoPin": true,
-    "loginPin": "0643",
-    "autoCommands": [
-      {
-        "delay": 75000,
-        "cmd": "/afk"
-      }
-    ],
-    "autoServerSelect": false,
-    "serverSelectItem": "grass_block",
-    "autoEat": true,
-    "autoWalk": true,
-    "autoClick": true,
-    "autoAttack": false,
-    "attackDelay": 500,
-    "pinDelay": 1500,
-    "autoTpa": true,
-    "webhookOn": true,
-    "webhookUrl": "",
-    "webhookMsgId": "1557319098289889342",
-    "webhookMsgUrl": "https://discord.com/api/webhooks/1557318653676880002/sJZ2EfaOHyORK5Oo9i3vK6rTRqSnpH_1r9XRDuc57sGhsf5SQ761FNlfddEknfDtmsO8"
   }
 ]
