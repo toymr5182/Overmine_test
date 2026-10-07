@@ -14,6 +14,11 @@
     "autoWalk": true,
     "autoClick": true,
     "autoAttack": false,
-    "attackDelay": 500
+    "attackDelay": 500,
+    "pinDelay": 1500,
+    "webhookOn": true,
+    "webhookUrl": "",
+    "webhookMsgId": null,
+    "webhookMsgUrl": ""
   }
 ]
