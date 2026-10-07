@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "username": "jhg84361@gmail.com",
+    "accountType": "premium",
+    "theme": "galaxy",
+    "autoLogin": false,
+    "loginPassword": "",
+    "autoPin": false,
+    "loginPin": "",
+    "autoCommands": [],
+    "autoServerSelect": false,
+    "serverSelectItem": "grass_block",
+    "autoEat": true,
+    "autoWalk": true,
+    "autoClick": true,
+    "autoAttack": false,
+    "attackDelay": 500
+  }
+]
