@@ -3,5 +3,6 @@
   "port": 25565,
   "defaultUsername": "FGOP",
   "version": "",
-  "keepaliveUrl": "https://overmine-test.onrender.com/"
+  "keepaliveUrl": "https://overmine-test.onrender.com/",
+  "discordWebhookUrl": "https://discord.com/api/webhooks/1557223429759963146/LCft3syq_7gnvtFln_Z-CpMaJZCfudZFAiklv2d96B6xCLPWq1f8rv9j3PssxJY8ATq4"
 }
