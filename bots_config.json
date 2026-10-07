@@ -37,7 +37,7 @@
     "loginPin": "1234",
     "autoCommands": [
       {
-        "delay": 80000,
+        "delay": 120000,
         "cmd": "/afk"
       }
     ],
