@@ -16,6 +16,7 @@
     "autoAttack": false,
     "attackDelay": 500,
     "pinDelay": 15000,
+    "autoTpa": true,
     "webhookOn": true,
     "webhookUrl": "",
     "webhookMsgId": "1557223607913029673",
