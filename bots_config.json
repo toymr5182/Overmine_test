@@ -26,33 +26,5 @@
     "webhookUrl": "",
     "webhookMsgId": "1557346210392571915",
     "webhookMsgUrl": "https://discord.com/api/webhooks/1557345645767954473/Ctggb4WMdLx5i5u-0WGFpy1aOIAxW99P2eawL9tyl-8cUoyYbChIfbl2GNrP6y67wJ9C"
-  },
-  {
-    "username": "Gava",
-    "accountType": "offline",
-    "theme": "cyber",
-    "autoLogin": true,
-    "loginPassword": "a12345",
-    "autoPin": true,
-    "loginPin": "1234",
-    "autoCommands": [
-      {
-        "delay": 80000,
-        "cmd": "/afk"
-      }
-    ],
-    "autoServerSelect": false,
-    "serverSelectItem": "grass_block",
-    "autoEat": true,
-    "autoWalk": true,
-    "autoClick": true,
-    "autoAttack": false,
-    "attackDelay": 500,
-    "pinDelay": 1500,
-    "autoTpa": true,
-    "webhookOn": true,
-    "webhookUrl": "",
-    "webhookMsgId": "1557356632399159378",
-    "webhookMsgUrl": "https://discord.com/api/webhooks/1557345645767954473/Ctggb4WMdLx5i5u-0WGFpy1aOIAxW99P2eawL9tyl-8cUoyYbChIfbl2GNrP6y67wJ9C"
   }
 ]
