@@ -30,7 +30,12 @@
     "loginPassword": "Zxc12345",
     "autoPin": true,
     "loginPin": "0643",
-    "autoCommands": [],
+    "autoCommands": [
+      {
+        "delay": 75000,
+        "cmd": "/afk"
+      }
+    ],
     "autoServerSelect": false,
     "serverSelectItem": "grass_block",
     "autoEat": true,
