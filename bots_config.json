@@ -19,13 +19,7 @@
     "autoWalk": true,
     "autoClick": true,
     "autoAttack": false,
-    "attackDelay": 500,
-    "pinDelay": 15000,
-    "autoTpa": false,
-    "webhookOn": true,
-    "webhookUrl": "",
-    "webhookMsgId": "1557346210392571915",
-    "webhookMsgUrl": "https://discord.com/api/webhooks/1557345645767954473/Ctggb4WMdLx5i5u-0WGFpy1aOIAxW99P2eawL9tyl-8cUoyYbChIfbl2GNrP6y67wJ9C"
+    "attackDelay": 500
   },
   {
     "username": "Gava",
@@ -47,12 +41,6 @@
     "autoWalk": true,
     "autoClick": true,
     "autoAttack": false,
-    "attackDelay": 500,
-    "pinDelay": 1500,
-    "autoTpa": true,
-    "webhookOn": true,
-    "webhookUrl": "",
-    "webhookMsgId": "1557359101804023922",
-    "webhookMsgUrl": "https://discord.com/api/webhooks/1557345645767954473/Ctggb4WMdLx5i5u-0WGFpy1aOIAxW99P2eawL9tyl-8cUoyYbChIfbl2GNrP6y67wJ9C"
+    "attackDelay": 500
   }
 ]
