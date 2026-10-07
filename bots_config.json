@@ -21,5 +21,28 @@
     "webhookUrl": "",
     "webhookMsgId": "1557253046172524595",
     "webhookMsgUrl": "https://discord.com/api/webhooks/1557223429759963146/LCft3syq_7gnvtFln_Z-CpMaJZCfudZFAiklv2d96B6xCLPWq1f8rv9j3PssxJY8ATq4"
+  },
+  {
+    "username": "jhg84361@gmail.com",
+    "accountType": "premium",
+    "theme": "galaxy",
+    "autoLogin": false,
+    "loginPassword": "",
+    "autoPin": false,
+    "loginPin": "",
+    "autoCommands": [],
+    "autoServerSelect": false,
+    "serverSelectItem": "grass_block",
+    "autoEat": true,
+    "autoWalk": true,
+    "autoClick": true,
+    "autoAttack": false,
+    "attackDelay": 500,
+    "pinDelay": 1500,
+    "autoTpa": true,
+    "webhookOn": true,
+    "webhookUrl": "",
+    "webhookMsgId": "1557257433645195316",
+    "webhookMsgUrl": "https://discord.com/api/webhooks/1557223429759963146/LCft3syq_7gnvtFln_Z-CpMaJZCfudZFAiklv2d96B6xCLPWq1f8rv9j3PssxJY8ATq4"
   }
 ]
