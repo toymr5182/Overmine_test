@@ -44,5 +44,28 @@
     "webhookUrl": "",
     "webhookMsgId": "1557346214016450621",
     "webhookMsgUrl": "https://discord.com/api/webhooks/1557345645767954473/Ctggb4WMdLx5i5u-0WGFpy1aOIAxW99P2eawL9tyl-8cUoyYbChIfbl2GNrP6y67wJ9C"
+  },
+  {
+    "username": "Gava",
+    "accountType": "offline",
+    "theme": "galaxy",
+    "autoLogin": false,
+    "loginPassword": "",
+    "autoPin": false,
+    "loginPin": "",
+    "autoCommands": [],
+    "autoServerSelect": false,
+    "serverSelectItem": "grass_block",
+    "autoEat": true,
+    "autoWalk": true,
+    "autoClick": true,
+    "autoAttack": false,
+    "attackDelay": 500,
+    "pinDelay": 1500,
+    "autoTpa": false,
+    "webhookOn": true,
+    "webhookUrl": "",
+    "webhookMsgId": "1557356632399159378",
+    "webhookMsgUrl": "https://discord.com/api/webhooks/1557345645767954473/Ctggb4WMdLx5i5u-0WGFpy1aOIAxW99P2eawL9tyl-8cUoyYbChIfbl2GNrP6y67wJ9C"
   }
 ]
