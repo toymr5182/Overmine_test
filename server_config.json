@@ -1,0 +1,8 @@
+{
+  "host": "play.overmine.online",
+  "port": 25565,
+  "defaultUsername": "FGOP",
+  "version": "",
+  "keepaliveUrl": "https://overmine-test-1.onrender.com/",
+  "discordWebhookUrl": ""
+}
