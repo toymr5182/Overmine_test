@@ -4,7 +4,7 @@
     "accountType": "offline",
     "theme": "galaxy",
     "autoLogin": true,
-    "loginPassword": "a12345",
+    "loginPassword": "a1234",
     "autoPin": true,
     "loginPin": "1234",
     "autoCommands": [],
