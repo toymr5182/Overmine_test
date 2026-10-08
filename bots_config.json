@@ -1,22 +1,5 @@
 [
   {
-    "username": "Axis",
-    "accountType": "offline",
-    "theme": "galaxy",
-    "autoLogin": true,
-    "loginPassword": "a1234",
-    "autoPin": true,
-    "loginPin": "1234",
-    "autoCommands": [],
-    "autoServerSelect": false,
-    "serverSelectItem": "grass_block",
-    "autoEat": true,
-    "autoWalk": true,
-    "autoClick": true,
-    "autoAttack": false,
-    "attackDelay": 500
-  },
-  {
     "username": "Werdis",
     "accountType": "offline",
     "theme": "galaxy",
