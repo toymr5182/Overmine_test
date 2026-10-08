@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "username": "Axis",
+    "accountType": "offline",
+    "theme": "galaxy",
+    "autoLogin": false,
+    "loginPassword": "",
+    "autoPin": false,
+    "loginPin": "",
+    "autoCommands": [],
+    "autoServerSelect": false,
+    "serverSelectItem": "grass_block",
+    "autoEat": true,
+    "autoWalk": true,
+    "autoClick": true,
+    "autoAttack": false,
+    "attackDelay": 500,
+    "pinDelay": 1500,
+    "autoTpa": false,
+    "webhookOn": true,
+    "webhookUrl": "",
+    "webhookMsgId": null,
+    "webhookMsgUrl": ""
+  }
+]
